@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎉 awesome-readme-gifs
+# Made with 💜 by AeternusPoison
 
 ![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
