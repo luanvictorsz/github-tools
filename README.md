@@ -6,8 +6,8 @@
 
 ### Uma coleção de GIFs, ícones e ferramentas para deixar o seu README do GitHub lendário ✨
 
-[![Stars](https://img.shields.io/github/stars/seu-usuario/awesome-readme-gifs?style=for-the-badge&color=FFD700)](https://github.com)
-[![Forks](https://img.shields.io/github/forks/seu-usuario/awesome-readme-gifs?style=for-the-badge&color=00CED1)](https://github.com)
+[![Stars](https://img.shields.io/github/stars/luanvictorsz/awesome-readme-gifs?style=for-the-badge&color=FFD700)](https://github.com)
+[![Forks](https://img.shields.io/github/forks/luanvictorsz/awesome-readme-gifs?style=for-the-badge&color=00CED1)](https://github.com)
 [![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-brightgreen?style=for-the-badge)](LICENSE)
 [![PRs Bem-vindos](https://img.shields.io/badge/PRs-bem--vindos-ff69b4?style=for-the-badge)](CONTRIBUTING.md)
 
